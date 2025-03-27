@@ -1,0 +1,9 @@
+geopandas
+matplotlib
+folium
+contextily
+shapely
+requests
+osmnx
+openrouteservice
+jupyterlab
