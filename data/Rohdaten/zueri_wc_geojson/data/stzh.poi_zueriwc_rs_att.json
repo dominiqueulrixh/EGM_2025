@@ -1,0 +1,1189 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "stzh.poi_zueriwc_rs_att",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Manessestrasse 51 / Beim Durchgang zum Hertersteg",
+				"kreis" : 3,
+				"typ" : null,
+				"poi_id" : "wcr032",
+				"kommentar" : "Multifunktions- und Behinderten WC, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Birmensdorferstrasse 509 / Endstation Triemli auf der Traminsel",
+				"kreis" : 3,
+				"typ" : null,
+				"poi_id" : "wcr033",
+				"kommentar" : "Multifunktions- und Behinderten WC, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h",
+				"gebuehren" : "Eurokey oder Fr. 1.--",
+				"standort" : "Hardaustrasse 2",
+				"kreis" : 4,
+				"typ" : null,
+				"poi_id" : "wcr035",
+				"kommentar" : "Selbstreinigender WC Automat für Damen- und Herren. Rollstuhlgängig mit automatischer Türe. Wickeltisch vorhanden."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h",
+				"gebuehren" : "Behinderten-WC (nur Eurokey), Multifunktions-WC (gratis)",
+				"standort" : "Hohlstrasse 91 / Ecke Feldstrasse",
+				"kreis" : 4,
+				"typ" : null,
+				"poi_id" : "wcr036",
+				"kommentar" : "2 Multifunktions- und ein Behinderten-WC. Das Behinderten-WC ist wegen häufiger Sachbeschädigungen nur noch mit Eurokey zugänglich."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Während der Öffnungszeiten des Bahnhofs. Am Wochenende 24h",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC: kostenlos. ",
+				"standort" : "Hardstrasse 189/ Im UG des Bahnhofs beim Kiosk",
+				"kreis" : 5,
+				"typ" : null,
+				"poi_id" : "wcr037",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 1 Multifunktions-WC."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Multifunktions-WC 24 h, Behinderten-WC mit Eurokey 24h, mit Gebühr Fr. 1.-- 06.00-22.00 Uhr",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Auf dem neu gestalteten Platz bei den Unterflur-Containern.",
+				"kreis" : 7,
+				"typ" : null,
+				"poi_id" : "wcr3628",
+				"kommentar" : "Multifunktions- und Behinderten WC, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Badenerstrasse 230",
+				"kreis" : 4,
+				"typ" : null,
+				"poi_id" : "wcr040",
+				"kommentar" : "Multifunktions- und Behinderten WC, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h. Behinderten-WC nur mit Eurokey",
+				"gebuehren" : "Gebührenfrei.",
+				"standort" : "Rotwandstrasse 34 / Eckke Stauffacherstrasse",
+				"kreis" : 4,
+				"typ" : null,
+				"poi_id" : "wcr043",
+				"kommentar" : "Multifunktions- und Behinderten-WC. Das Behinderten-WC ist nur mit Eurokey zugänglich."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h. Reduzierter Winterbetrieb.",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Josefstrasse 197 / beim Bahnviadukt",
+				"kreis" : 5,
+				"typ" : null,
+				"poi_id" : "wcr049",
+				"kommentar" : "Betreut vom Kiosk. 2 Multifunktions- und ein Behinderten WC, Wickeltisch. Zugang zum Behinderten WC durch Kiesvorplatz erschwert."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Limmatplatz 3c / Auf der Traminsel",
+				"kreis" : 5,
+				"typ" : null,
+				"poi_id" : "wcr050",
+				"kommentar" : "2 Multifunktions- und ein Behinderten WC, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h",
+				"gebuehren" : "Fr. 1.-- oder Eurokey",
+				"standort" : "Schaffhauserplatz 5 / Bei der Einmündung Seminarstrasse",
+				"kreis" : 6,
+				"typ" : null,
+				"poi_id" : "wcr054",
+				"kommentar" : "Selbstreinigender WC Automat für Damen- und Herren. Rollstuhlgängig mit automatischer Türe, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC: von 06:00-22:00 - mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen.",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC: kostenlos. ",
+				"standort" : "Zürichbergstr. 175 / Endstation Zoo, Wartehalle",
+				"kreis" : 7,
+				"typ" : null,
+				"poi_id" : "wcr055",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 1 Multifunktions-WC. Das ZüriWC liegt an der Tramendhaltestelle Zoo."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "6.30 bis 21.45 Uhr. November bis März bis 20.45 Uhr. Bei Veranstaltungen auch länger. Behinderten-WC (aussen) 24 h",
+				"gebuehren" : "Gebühr Fr. 1.-- oder Eurokey",
+				"standort" : "Bellevueplatz 2 / Im Tramwartehäuschen seeseitig",
+				"kreis" : 1,
+				"typ" : null,
+				"poi_id" : "wcr003",
+				"kommentar" : "Bediente Anlage, Behinderten-WC, Wickeltisch im Behinderten-WC. Unser Personal ist während der Öffnungszeiten vor Ort und sorgt für Sauberkeit und Sicherheit."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Gebührenfrei",
+				"standort" : "Bürkliplatz 12 / Beim Kiosk ZSG-Schiffahrtsgesellschaft",
+				"kreis" : 1,
+				"typ" : null,
+				"poi_id" : "wcr006",
+				"kommentar" : "Damen- und Herren-WC, Pissoir, Behinderten-WC mit Eurokey. Der Schlüssel kann beim Kiosk verlangt werden. Bei schönem Wetter sehr stark frequentierte Anlage."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "MF-WC 24 h, Behinderten-WC mit Eurokey 24h, mit Gebühr Fr. 1.-- 06.00-22.00 Uhr",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Damen- und Herren-WC gratis",
+				"standort" : "Heimplatz",
+				"kreis" : 1,
+				"typ" : null,
+				"poi_id" : "wcr009",
+				"kommentar" : "Multifunktions- und Behinderten WC."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Witikonerstrasse 2 / Auf der Traminsel",
+				"kreis" : 7,
+				"typ" : null,
+				"poi_id" : "wcr058",
+				"kommentar" : "Multifunktions- und Behinderten WC, Wickeltisch. Direkt an der Haltestelle."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h",
+				"gebuehren" : "Fr. 1.-- oder Eurokey",
+				"standort" : "Stadthausquai 18/ Am Limmatufer",
+				"kreis" : 1,
+				"typ" : null,
+				"poi_id" : "wcr5226",
+				"kommentar" : "Selbstreinigender WC Automat für Damen und Herren. Rollstuhlgängig mit automatischer Türe, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Gloriastrasse 15a",
+				"kreis" : 7,
+				"typ" : null,
+				"poi_id" : "wcr060",
+				"kommentar" : "Multifunktions- und Behinderten-WC, Wickeltisch. "
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Fr. 1.-- oder Eurokey",
+				"standort" : "Rütistrasse 1 / Ilgenstrasse",
+				"kreis" : 7,
+				"typ" : null,
+				"poi_id" : "wcr061",
+				"kommentar" : "Selbstreinigender WC Automat für Damen- und Herren. Rollstuhlgängig mit automatischer Tür, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Während der Öffnungszeiten des Restaurants. Behinderten-WC 24h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Damen- und Herren-WC gratis",
+				"standort" : "Klausstrasse 2 / an der Uferpromenade",
+				"kreis" : 8,
+				"typ" : null,
+				"poi_id" : "wcr065",
+				"kommentar" : "Damen- und Herren WC, Pissoir, Behinderten-WC, Wickeltisch. Das 2017 umgebaute WC ist bei schönem Wetter sehr stark frequentiert. Es ist auch das Gäste-WC des Restaurant Kiosk."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Forchstrasse 396, Zollikon - Endstation VBZ Linie 11",
+				"kreis" : null,
+				"typ" : null,
+				"poi_id" : "wcr068",
+				"kommentar" : "Multifunktions-, Behinderten-WC, Einziges ZüriWC ausserhalb der Stadtgrenze in Zollikon."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Lindenhofstrasse 2",
+				"kreis" : 1,
+				"typ" : null,
+				"poi_id" : "wcr013",
+				"kommentar" : "2 Multifunktions- und ein Behinderten WC, Wickeltisch. An steile Gasse gelegen."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Behinderten-WC ganzjährig 24 Stunden geöffnet (mit Gebühr oder Eurokey). Multifunktions-WC 24 Stunden, von März bis November.",
+				"gebuehren" : "Behinderten-WC (Fr. 1.-- oder Eurokey), Multifunktions-WC (gratis). Im Winter ist nur das Behinderten WC mit Gebühr oder Eurokey zugänglich.",
+				"standort" : "Waidbadstrasse 153, Spiel- und Grillplatz",
+				"kreis" : 10,
+				"typ" : null,
+				"poi_id" : "wcr083",
+				"kommentar" : "Zugänglichkeit mit Rollstuhl durch Kies und Rasen erschwert."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Gebührenfrei",
+				"standort" : "Werdinsel 10 / Pumpenhaus.",
+				"kreis" : 10,
+				"typ" : null,
+				"poi_id" : "wcr085",
+				"kommentar" : "Damen- und Herren WC, rollstuhlgängig, Pissoir. Der Weg ins rollstuhlgängige WC führt über einen Absatz."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Gebühr Fr. 1.--. Behinderten-WC nur mit Eurokey",
+				"standort" : "Hofwiesenstrasse 377",
+				"kreis" : 11,
+				"typ" : null,
+				"poi_id" : "wcr086",
+				"kommentar" : "Kombiniertes Damen- und Herren WC im Bahnhof Oerlikon. Stark frequentiert. Behinderten-WC nur mit Eurokey. Ein weiteres WC befindet sich in der neuen Unterführung auf der anderen Seite des Bahnhofs."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h",
+				"gebuehren" : "Fr. 1.-- oder Eurokey",
+				"standort" : "Schaffhauserstrasse 503 Endstation VBZ Linie 14.",
+				"kreis" : 11,
+				"typ" : null,
+				"poi_id" : "wcr090",
+				"kommentar" : "Selbstreinigender WC Automat für Damen- und Herren. Rollstuhlgängig mit automatischer Türe, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Wehntalerstrasse 539a / Bushaltestelle",
+				"kreis" : 11,
+				"typ" : null,
+				"poi_id" : "wcr091",
+				"kommentar" : "Multifunktions- und Behinderten WC. "
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Herzogenmühlestrasse 3, Schwamendingerplatz",
+				"kreis" : 12,
+				"typ" : null,
+				"poi_id" : "wcr093",
+				"kommentar" : "Multifunktions- und Behinderten-WC, Wickeltisch. Das WC liegt direkt am Schwamendingerplatz."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Fr. 1.-- oder Eurokey",
+				"standort" : "Usteristrasse 6 / Zwischen Globus, McDonalds und Lottokiosk",
+				"kreis" : 1,
+				"typ" : null,
+				"poi_id" : "wcr097",
+				"kommentar" : "WC-Automat für Damen- und Herren. Rollstuhlgängig mit automatischer Türe, Wickeltisch. "
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Fr. 1.-- oder Eurokey",
+				"standort" : "Ottikerstrasse 64 / Ecke Cullmannstrasse",
+				"kreis" : 6,
+				"typ" : null,
+				"poi_id" : "wcr098",
+				"kommentar" : "Selbstreinigender WC Automat für Damen- und Herren. Rollstuhlgängig mit automatischer Tür, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h, Behinderten-WC 06-22 Uhr, mit EuroKey 24h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Im neuen Hardaupark hinter dem Albisriederplatz",
+				"kreis" : 4,
+				"typ" : null,
+				"poi_id" : "wcr005",
+				"kommentar" : "Multifunktions- und Behinderten WC, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Geöffnet 24h. Behinderten WC ohne Eurokey von 06.00-22.00 Uhr.",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Im Oerlikerpark, Birchstrasse 183e",
+				"kreis" : 11,
+				"typ" : null,
+				"poi_id" : "wcr010",
+				"kommentar" : "Multifunktions- und Behinderten WC, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h, Behinderten-WC ohne Eurokey von 06.00-22.00 im Winter bis 20.00 Uhr.",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Wasserwerkstrasse 89 / Im Brückenpfeiler der Kornhausbrücke",
+				"kreis" : 10,
+				"typ" : null,
+				"poi_id" : "wcr102",
+				"kommentar" : "Multifunktions- und  Behinderten-WC mit Eurokey, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC: von 06:00-22:00 - mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen.",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC: kostenlos.",
+				"standort" : "Schindlerpark",
+				"kreis" : 6,
+				"typ" : null,
+				"poi_id" : "wcr12221",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 1 Multifunktions-WC."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC: von 06:00-22:00 - mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen.",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC: kostenlos.",
+				"standort" : "Bahnhof Altstetten - Vulkanplatz",
+				"kreis" : 9,
+				"typ" : null,
+				"poi_id" : "wcr1312",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und  1 Multifunktions-WC"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Nachts geschlossen.",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC: kostenlos. ",
+				"standort" : "Im Beckenhofpark, Stampfenbachstrasse 130",
+				"kreis" : 6,
+				"typ" : null,
+				"poi_id" : "wcr2251",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 1 Multifunktions-WC. Die WCs befindet sich im Park, welcher nachts geschlossen wird."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "MF-WC 24 h, Behinderten-WC mit Eurokey 24h, mit Gebühr Fr. 1.-- 06.00-22.00 Uhr",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Damen- und Herren-WC gratis",
+				"standort" : "Witikonerstrasse beim Einkaufszentrum Witikon",
+				"kreis" : 7,
+				"typ" : null,
+				"poi_id" : "wcr2252",
+				"kommentar" : "Multifunktions- und Behinderten-WC, Wickeltisch. "
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h",
+				"gebuehren" : "Gebührenfrei, Behinderten WC mit Eurokey oder Fr. 1.--",
+				"standort" : "Hardplatz",
+				"kreis" : 4,
+				"typ" : null,
+				"poi_id" : "wcr5698",
+				"kommentar" : "Multifunktions- und Behinderten-WC"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Multifunktions-WC 24 h, Behinderten-WC mit Eurokey 24h, mit Gebühr Fr. 1.-- 06.00-22.00 Uhr",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Pfingstweid Park am Rande der Wiese.",
+				"kreis" : 5,
+				"typ" : null,
+				"poi_id" : "wcr3629",
+				"kommentar" : "Multifunktions- und Behinderten WC am Pfingstweid Park."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "05:00 -20:00 mit Eurokey 24h",
+				"gebuehren" : "Fr. 1.-, Eurokey Gratis",
+				"standort" : "Helvetiaplatz Amtshaus",
+				"kreis" : 4,
+				"typ" : null,
+				"poi_id" : "wcr7319",
+				"kommentar" : "BF, Behinderten-WC"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Rollstuhlgängiges-WC Fr. 1.--, Eurokey oder Kreditkartenzahlung möglich, Multifunktions-WC kostenlos benutzbar",
+				"standort" : "Mythenquai 309 / unter der Fussgängerbrücke",
+				"kreis" : 2,
+				"typ" : null,
+				"poi_id" : "wcr13861",
+				"kommentar" : "3 Multifunktions- und 1 Rollstuhlgängiges-WC mit Eurokey, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC: von 06:00-22:00 - mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen.",
+				"gebuehren" : "Rollstuhlgängiges-WC CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC kostenlos.",
+				"standort" : "Schlossgasse 21 / Ecke Steinstrasse",
+				"kreis" : 3,
+				"typ" : null,
+				"poi_id" : "wcr13883",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 1 Multifunktions-WC."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC: von 06:00-22:00 - mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen.",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro  (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC: kostenlos.",
+				"standort" : "Zurlindenstr 22, Spielplatz beim Schulhaus",
+				"kreis" : 3,
+				"typ" : null,
+				"poi_id" : "wcr13884",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und  1 Multifunktions-WC"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC: von 06:00-22:00 - mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen.",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC: kostenlos.",
+				"standort" : "Mythenquai 309 / neben der roten Fussgängerbrücke.",
+				"kreis" : 2,
+				"typ" : null,
+				"poi_id" : "wcr13885",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 2 Multifunktions-WC."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC: von 06:00-22:00 - mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen.",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC: kostenlos.",
+				"standort" : "Bändlistrasse 90, 8064 Zürich",
+				"kreis" : 9,
+				"typ" : null,
+				"poi_id" : "wcr13941",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 1 Multifunktions-WC."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Während der Öffnungszeiten der Rio Bar",
+				"gebuehren" : "Gebühr Fr. 1.-- oder Eurokey",
+				"standort" : "Gessnerallee 17 / Rio Bar, Gessnerbrücke",
+				"kreis" : 1,
+				"typ" : null,
+				"poi_id" : "wcr007",
+				"kommentar" : "Öffentlich zugängliches Behinderten WC in der Bar Rio, Wickeltisch. "
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC Modul:                      von 06:00 - 22:00 h,                              mit Eurokey 24 h offen.     ",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder kostenlos mit Eurokey.                   Multifunktions-WC: kostenlos.",
+				"standort" : "Lindenplatz 1 / Kioskgebäude",
+				"kreis" : 9,
+				"typ" : null,
+				"poi_id" : "wcr077",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 1 Multifunktions-WC."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h",
+				"gebuehren" : "Behinderten-WC mit Eurokey oder Fr. 1.--. Multifunktions-WC gebührenfrei",
+				"standort" : "Max-Frisch-Platz",
+				"kreis" : 11,
+				"typ" : null,
+				"poi_id" : "wcr4920",
+				"kommentar" : "Multifunktions- und Behinderten WC. Die Anlage befindet sich in der Bahnhofsunterführung."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Gebührenfrei. Behinderten WC Fr. 1.- oder Eurokey",
+				"standort" : "Stauffacher",
+				"kreis" : 4,
+				"typ" : null,
+				"poi_id" : "wcr6098",
+				"kommentar" : "Multifunktions- und Behinderten-WC"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h",
+				"gebuehren" : "Behinderten-WC Fr. 1/Eurokey, Multifunktions-WC gratis",
+				"standort" : "Spielplatz Ziegelhütte",
+				"kreis" : 11,
+				"typ" : null,
+				"poi_id" : "wcr7280",
+				"kommentar" : "1 Behinderten- und ein Multifunktions-WC."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "06:00-22:00 Uhr, Eurokey 24h",
+				"gebuehren" : "06:00-22:00 Gratis. Nachts 1.- oder Eurokey",
+				"standort" : "Rütihof, Endhaltestelle Heizenholz",
+				"kreis" : 10,
+				"typ" : null,
+				"poi_id" : "wcr7399",
+				"kommentar" : "Behindertengerechte Toilette"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h",
+				"gebuehren" : "Gebührenfrei, Behinderten-WC Fr. 1 oder Eurokey",
+				"standort" : "Blatterwiese Fischerstube",
+				"kreis" : 8,
+				"typ" : null,
+				"poi_id" : "wcr9922",
+				"kommentar" : "2 Multifunktions- 1 Behinderten-WC"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h",
+				"gebuehren" : "Behinderten- und Familienmodul 1 Franken",
+				"standort" : "Nordstrasse 45",
+				"kreis" : 6,
+				"typ" : null,
+				"poi_id" : "wcr12923",
+				"kommentar" : "1 Multifunktionsmodul und ein Behinderten- und Familienmodul"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC: von 06:00-22:00 - mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen.",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC: kostenlos. ",
+				"standort" : "Uetlibergstrasse 70, Uetlibergbahn-Haltestelle Binz",
+				"kreis" : 3,
+				"typ" : null,
+				"poi_id" : "wcr4102",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 1 Multifunktions-WC. Bei Eurokey-Betätigung erleichtert ein Elektroantrieb den Zugang."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC: von 06:00-22:00 - mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen.",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro oder Eurokey. Multifunktions-WC: kostenlos. ",
+				"standort" : "Püntstrasse 11, Endstation Tram 3 Albisrieden",
+				"kreis" : 9,
+				"typ" : "nicht rollstuhlgängig",
+				"poi_id" : "wcr5199",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 1 Multifunktions-WC. Mit dem umgebauten ZüriWC verfügt das Zentrum von Albisrieden über eine zeitgemässe, rollstuhlgängige WC-Anlage."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC: von 06:00-22:00 - mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen.",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC: kostenlos. ",
+				"standort" : "Gemeinschaftszentrum Bachwiesen, Bachwiesenstrasse 40",
+				"kreis" : 9,
+				"typ" : null,
+				"poi_id" : "wcr2895",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 1 Multifunktions-WC."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC: von 06:00-22:00 - mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen.",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC: kostenlos. ",
+				"standort" : "Albisstrasse 105 / Endstation Wollishofen der VBZ Linie 7",
+				"kreis" : 2,
+				"typ" : null,
+				"poi_id" : "wcr023",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 1 Multifunktions-WC."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Damen- und Herren-WC gratis.",
+				"standort" : "Bucheggplatz 1 / Im Kioskgebäude, hinten.",
+				"kreis" : 6,
+				"typ" : null,
+				"poi_id" : "wcr052",
+				"kommentar" : "Damen- und Herren WC, eine rollstuhlgängige Kabine, Pissoir."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC: von 06:00-22:00 - mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen..",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC: kostenlos.",
+				"standort" : "Klosbachstr. 19, im Park",
+				"kreis" : 7,
+				"typ" : null,
+				"poi_id" : "wcr056",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 1 Multifunktions-WC. Bitte beachten Sie: Die Kiesfläche erschwert die Zufahrt mit dem Rollstuhl."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges-WC Modul: von 06:00 - 22:00, mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen.",
+				"gebuehren" : "Rollstuhlgängiges-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder kostenlos mit Eurokey. Multifunktions-WC: kostenlos.",
+				"standort" : "Dübendorfstr. 475 / Endstation Tram 7 und 12",
+				"kreis" : 12,
+				"typ" : null,
+				"poi_id" : "wcr094",
+				"kommentar" : "1 Rollstuhlgängiges-WC Modul und 2 Multifunktions-WC."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h, Behinderten WC mit Eurokey 24h, mit Gebühr 06.00-22.00 Uhr",
+				"gebuehren" : "Gebührenfrei. Behinderten-WC mit Eurokey oder Fr. 1.--.",
+				"standort" : "Escher-Wyss-Platz bei der Tramhaltestelle stadteinwärts",
+				"kreis" : 5,
+				"typ" : null,
+				"poi_id" : "wcr2888",
+				"kommentar" : "Multifunktions- und Behinderten WC."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Geöffnet 24h. Behinderten-WC ohne Eurokey von 06.00-22.00 Uhr.",
+				"gebuehren" : "Behinderten-WC (Fr. 1.-- oder Eurokey), Multifunktions-WC (gratis)",
+				"standort" : "Im Neumünsterpark unterhalb der Kirche",
+				"kreis" : 8,
+				"typ" : null,
+				"poi_id" : "wcr4103",
+				"kommentar" : "Multifunktions- und Behinderten WC, Wickeltisch. Das Behinderten-WC kann nur ohne Rampe betreten werden."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Seilergraben 76 / Beim Aufgang zum Hirschengraben",
+				"kreis" : 1,
+				"typ" : null,
+				"poi_id" : "wcr001",
+				"kommentar" : "Multifunktions- und Behinderten-WC, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Fr. 1.-- oder Eurokey",
+				"standort" : "Albisstrasse bei 49 / vor der Kirche",
+				"kreis" : 2,
+				"typ" : null,
+				"poi_id" : "wcr008",
+				"kommentar" : "Selbstreinigender WC Automat für Damen und Herren. Rollstuhlgängig mit automatischer Türe, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h, Behinderten-WC 06-22 Uhr, mit EuroKey 24h",
+				"gebuehren" : "Gebührenfrei. Behinderten-WC Fr. 1.--. oder Eurokey.",
+				"standort" : "Seefeldstrasse beim GZ Riesbach",
+				"kreis" : 8,
+				"typ" : null,
+				"poi_id" : "wcr069",
+				"kommentar" : "Multifunktions- und Behinderten WC, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Leutschenbachstrasse 71 / Im Leutschenpark",
+				"kreis" : 11,
+				"typ" : null,
+				"poi_id" : "wcr088",
+				"kommentar" : "Multifunktions- und Behinderten WC. Behinderten WC nur mit Eurokey zugänglich."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h, März bis Oktober",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gebührenfrei",
+				"standort" : "Bellerivestrasse 150",
+				"kreis" : 8,
+				"typ" : null,
+				"poi_id" : "wcr071",
+				"kommentar" : "3 Multifunktions- und ein Behinderten WC, Wickeltisch. Im Winter werden zwei MF-Kabinen geschlossen. "
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "06-20 Uhr. Mit Eurokey 24h",
+				"gebuehren" : "Fr. 1.-, mit Eurokey gratis",
+				"standort" : "Escherhöhe",
+				"kreis" : 7,
+				"typ" : null,
+				"poi_id" : "wcr8682",
+				"kommentar" : "Behinderten-WC"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Gebührenfrei",
+				"standort" : "Frankentalerstrasse 10 / Endstation VBZ Linie 13",
+				"kreis" : 10,
+				"typ" : null,
+				"poi_id" : "wcr079",
+				"kommentar" : "Damen- und Herren WC, eine rollstuhlgängige Kabine, Pissoir."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Gebührenfrei. Behinderten WC Fr. 1.-- oder Eurokey.",
+				"standort" : "Limmatquai 61",
+				"kreis" : 1,
+				"typ" : null,
+				"poi_id" : "wcr012",
+				"kommentar" : "2 Multifunktions-WCs und 1 behindertengerechte Kabine. Hohe Frequenzen an zentraler Lage."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC: von 06:00-22:00 - mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen.",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC: kostenlos. ",
+				"standort" : "Bachstrasse 10 / vis à vis vom GZ Wollishofen",
+				"kreis" : 2,
+				"typ" : null,
+				"poi_id" : "wcr015",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 2 Multifunktions-WC.. Bei schönem Wetter stark frequentiert."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Mythenquai 19 / Beim Kiosk Hafen Enge",
+				"kreis" : 2,
+				"typ" : null,
+				"poi_id" : "wcr017",
+				"kommentar" : "2 Multifunktions- und Behinderten WC, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h. Behinderten-WC ohne Eurokey von 06.00-22.00 Uhr.",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Bederstrasse 110 / Klopstockwiese",
+				"kreis" : 2,
+				"typ" : null,
+				"poi_id" : "wcr019",
+				"kommentar" : "Multifunktions- und Behinderten WC, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC: von 06:00-22:00 - mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen.",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC: kostenlos. ",
+				"standort" : "Uetlibergstrasse 343 / Endstation VBZ-Züri Linie 13.",
+				"kreis" : 3,
+				"typ" : null,
+				"poi_id" : "wcr025",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 1 Multifunktions-WC. Das Rollstuhlgängige WC ist schwellenfrei zugänglich."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Geöffnet 24h. Behinderten-WC ohne Eurokey von 06.00-22.00 Uhr.",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Goldbrunnenplatz/ 3 Birmensdorferstrasse beim Take-Away",
+				"kreis" : 3,
+				"typ" : null,
+				"poi_id" : "wcr028",
+				"kommentar" : "Multifunktions- und Behinderten WC."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h",
+				"gebuehren" : "Gebührenfrei",
+				"standort" : "Zweierstrasse 149 / Beim Restaurant Falcone",
+				"kreis" : 3,
+				"typ" : null,
+				"poi_id" : "wcr031",
+				"kommentar" : "Kombiniertes Damen- und Herren WC, rollstuhlgängig, Pissoir. "
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC: von 06:00-22:00 - mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen.",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC: kostenlos.",
+				"standort" : "ZüriWC Guggachareal",
+				"kreis" : 6,
+				"typ" : null,
+				"poi_id" : "wcr11867",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 1 Multifunktions-WC. Die Anlage befindet sich im weissen Gebäude nach den Fussballfeld."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Mythenquai 73 bei der Wasserschutzpolizei",
+				"kreis" : 2,
+				"typ" : null,
+				"poi_id" : "wcr11783",
+				"kommentar" : "Multifunktions- und Behinderten WC. Das Behinderten-WC ist schwellenfrei zugänglich."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "MF-WC 24 h, Behinderten-WC mit Eurokey 24h, mit Gebühr Fr. 1-- von 06.00-22.00 Uhr",
+				"standort" : "Agnesstrasse 30 / Im Hof der Überbauung Bullingerhof",
+				"kreis" : 4,
+				"typ" : null,
+				"poi_id" : "wcr038",
+				"kommentar" : "Multifunktions- und Behinderten WC. Zufahrt mit Rollstuhl wegen Kies erschwert. Wickeltisch vorhanden."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Fr. 1.-- oder Eurokey",
+				"standort" : "Schaffhauserstrasse 148 / Tramhaltestelle",
+				"kreis" : 6,
+				"typ" : null,
+				"poi_id" : "wcr053",
+				"kommentar" : "Selbstreinigender WC Automat für Damen und Herren. Rollstuhlgängig mit automatischer Türe, Wickeltisch."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "06.30 - 21.45 Uhr. Behinderten-WC während der Öffnung der Passage.",
+				"gebuehren" : "Fr. 1.-- oder Eurokey",
+				"standort" : "Bahnhofpassage 52u / Im Shopville zwischen den Tramhaltestellen Bahnhofquai und Bahnhofstrasse",
+				"kreis" : 1,
+				"typ" : null,
+				"poi_id" : "wcr002",
+				"kommentar" : "Bediente Anlage. Damen- und Herren WC, Behinderten WC, Dusche, Wickeltisch, Verkauf von Hygieneartikeln. "
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Kreuzplatz 11 / Im Kioskgebäude",
+				"kreis" : 7,
+				"typ" : null,
+				"poi_id" : "wcr059",
+				"kommentar" : "2 Multifunktions- und ein Behinderten WC, Wickeltisch. Die Anlage befindet sich im denkmalgeschützten Gebäude in Mitten des Kreuzplatzes."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h / Behinderten WC von 06.00-22.00",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Walchebrücke beim Eingang in den Platzspitz-Park",
+				"kreis" : 1,
+				"typ" : null,
+				"poi_id" : "wcr004",
+				"kommentar" : "Multifunktions- und Behinderten WC, Wickeltisch. Am Eingang zum Park bei der Schifflände des Limmatschiffs."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Fr. 1.-- oder Eurokey",
+				"standort" : "Nansenstrasse 17 / Auf dem Marktplatz",
+				"kreis" : 11,
+				"typ" : null,
+				"poi_id" : "wcr089",
+				"kommentar" : "3 Multifunktions-WC, Behinderten-WC, Wickeltisch. Direkt am Marktplatz gelegen, stark frequentiert."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Gebührenfrei, Behinderten-WC nur mit Eurokey",
+				"standort" : "Tramendstation 9",
+				"kreis" : 12,
+				"typ" : null,
+				"poi_id" : "wcr092",
+				"kommentar" : "Multifunktions- und Behinderten WC. In der Nähe befinden sich das GZ und die neue Sportanlage Heerenschürli. Das Behinderten-WC ist nur mit Eurokey zugänglich."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC: von 06:00-22:00 - mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen.",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC: kostenlos. ",
+				"standort" : "Seefeldquai 4 / Bei der Badi Utoquai an der Seepromenade",
+				"kreis" : 8,
+				"typ" : null,
+				"poi_id" : "wcr104",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 2 Multifunktions-WC. Zufahrt mit Rollstuhl durch Kiesfläche erschwert."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Rollstuhlgängiges- und familiengerechtes-WC: von 06:00-22:00 - mit Eurokey 24 h offen. Multifunktions-WC: 24 h offen.",
+				"gebuehren" : "Rollstuhlgängiges- und familiengerechtes-WC: CHF 1.-- / 1 Euro (Kreditkartenzahlung möglich) oder Eurokey. Multifunktions-WC: kostenlos.",
+				"standort" : "Aemtlerwiese",
+				"kreis" : 3,
+				"typ" : null,
+				"poi_id" : "wcr7281",
+				"kommentar" : "1 Rollstuhlgängiges- und familiengerechtes-WC Modul mit Wickeltisch und 1 Multifunktions-WC."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "Ganzjährig, während den Öffnungszeiten des Kiosks.",
+				"gebuehren" : "Gebührenfrei",
+				"standort" : "Gfellstrasse 20",
+				"kreis" : 2,
+				"typ" : null,
+				"poi_id" : "wcr014",
+				"kommentar" : "Damen- und Herren-WC, Pissoir. Eine rollstuhlgängige Kabine bei den Frauen. Wickeltisch. Das WC ist während der Öffnungszeiten des Kiosks geöffnet. "
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "MF-WC 24 h, Behinderten-WC mit Eurokey 24h, mit Gebühr Fr. 1.-- 06.00-22.00 Uhr",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Damen- und Herren-WC gratis",
+				"standort" : "Gemeinschaftszentrum Buchegg, Bucheggplatz",
+				"kreis" : 6,
+				"typ" : null,
+				"poi_id" : "wcr2896",
+				"kommentar" : "Multifunktions- und Behinderten WC. Das GZ wurde 2013 umgebaut. Das neue WC steht nebst den WCs im GZ zur Verfügung, wenn dieses geschlossen ist."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 Stunden geöffnet. Behinderten WC von 6.00-22.00 Uhr.",
+				"gebuehren" : "Geöffnet 24h. Behinderten-WC ohne Eurokey von 06.00-22.00 Uhr.",
+				"standort" : "Limmattalstr. 178 / Gsteigstrasse.",
+				"kreis" : 10,
+				"typ" : null,
+				"poi_id" : "wcr080",
+				"kommentar" : "Das WC wurde umgebaut und präsentiert sich nun in bestem Zustand und behindertengerecht."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"oeffnungsz" : "24 h",
+				"gebuehren" : "Behinderten-WC Fr. 1.-- oder Eurokey, Multifunktions-WC gratis",
+				"standort" : "Zypressenstrasse 36",
+				"kreis" : 3,
+				"typ" : null,
+				"poi_id" : "wcr027",
+				"kommentar" : "2 Multifunktions-WCs und Behinderten WC im ehemaligen Gerätelokal. Wickeltisch vorhanden."
+			}
+		}
+	]
+}

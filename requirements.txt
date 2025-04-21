@@ -7,3 +7,4 @@ requests
 osmnx
 openrouteservice
 jupyterlab
+scikit-learn

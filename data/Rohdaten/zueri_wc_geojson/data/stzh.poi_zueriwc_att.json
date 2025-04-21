@@ -1,0 +1,344 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "stzh.poi_zueriwc_att",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc106",
+				"kommentar" : "Multifunktions-WC. Ein Behinderten-WC befindet sich im Turnhallentrakt des Schulhauses. Im nahen Oerlikerpark steht ebenfalls ein behindertengerechtes ZüriWC.",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24 h",
+				"standort" : "Fritz-Heeb-Weg 13 / Beim Schulhaus im Birch, Neu-Oerlikon",
+				"kreis" : 11,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc018",
+				"kommentar" : "2 Multifunktions-WCs. Für RollstuhlfahrerInnen steht das Behinderten-WC im Restaurant Seerose ohne Konsumationszwang zur Verfügung.",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24h",
+				"standort" : "Seestr. 495b, bei der Zufahrt zum Rest. Seerose",
+				"kreis" : 2,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc020",
+				"kommentar" : "4 Multifunktions-WCs. ",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24h",
+				"standort" : "Mythenquai 309 / unter der Fussgängerbrücke",
+				"kreis" : 2,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc024",
+				"kommentar" : "1 Multifunktions-WC. ",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24 h",
+				"standort" : "Zurlindenstr 22, Spielplatz beim Schulhaus",
+				"kreis" : 3,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc030",
+				"kommentar" : "Multifunktions-WC.",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24 h",
+				"standort" : "Schlossgasse 21 / Ecke Steinstrasse",
+				"kreis" : 3,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc034",
+				"kommentar" : "Multifunktions-WC beim neu gestalteten Spielplatz.",
+				"gebuehren" : "Gebührenfrei.",
+				"oeffnungsz" : "24 h",
+				"standort" : "Friesenbergstrasse 130 / Ecke Wasserschöpfi",
+				"kreis" : 3,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc041",
+				"kommentar" : "Zurzeit geschlossen",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24 h",
+				"standort" : "beim Zeughaus.",
+				"kreis" : 4,
+				"typ" : "Pissoir"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc042",
+				"kommentar" : "Zurzeit geschlossen.",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24 h",
+				"standort" : "Langstrasse 30 / Beim Kanzleischulhaus",
+				"kreis" : 4,
+				"typ" : "Pissoir"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc045",
+				"kommentar" : "Zurzeit geschlossen.",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24 h",
+				"standort" : "Zeughausstr. 56 / Einmündung Rotwandstr.",
+				"kreis" : 4,
+				"typ" : "Pissoir"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc047",
+				"kommentar" : "Zwei WC-Automaten für Damen- und Herren.",
+				"gebuehren" : "Fr. 1.--.",
+				"oeffnungsz" : "24 h",
+				"standort" : "Ausstellungsstrasse 15, bei der Einfahrt zum Busbahnhof.",
+				"kreis" : 5,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc004",
+				"kommentar" : "Bediente Anlage.",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "Ganzjährig 6.30-21.45 Uhr geöffnet. Im Winter nur bis 20.45 Uhr.",
+				"standort" : "Ecke Bahnhofstrasse/Bürkliplatz 1",
+				"kreis" : 1,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc005",
+				"kommentar" : "Pissoir",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24h",
+				"standort" : "Bürkliplatz 5 / Fraumünsterstrasse",
+				"kreis" : 1,
+				"typ" : "Pissoir"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc010",
+				"kommentar" : "Bediente Anlage: Damen- und Herren WC, Wickeltisch. Ein Behinderten-WC (mit Eurokey-Schliessung) findet sich bei der Credit Suisse an der Bärengasse (kein ZüriWC).",
+				"gebuehren" : "Gebühr Fr. 1.--..",
+				"oeffnungsz" : "Mon.-Sam. 06.30 - 20.45 Uhr, Son. 09:30 - 17:45 Uhr",
+				"standort" : "Paradeplatz 11 / Im Tramwartehaus die Treppe runter",
+				"kreis" : 1,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc066",
+				"kommentar" : "Kombiniertes Damen- und Herren-WC, Pissoir. ",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24 h. Geöffnet von März bis Oktober.",
+				"standort" : "Bellerivestrasse 268, bei Kibag und Bildhauerin",
+				"kreis" : 8,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc011",
+				"kommentar" : "Multifunktions-WC. Im Winter geschlossen. Bei der Walchebrücke findet sich ein ganzjährig geöffnetes, rollstuhlgängiges ZüriWC.",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "Während der Öffnungszeiten des Parks von März bis Oktober.",
+				"standort" : "Platzpromenade 9 / Im Park Seite Limmat",
+				"kreis" : 1,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc072",
+				"kommentar" : "Damen- und Herren WC, Pissoir. RollstuhlfahrerInnen benützen das WC im Restaurant. Die Anlage wird vom Personal des Restaurants Lakeside betreut und gereinigt.",
+				"gebuehren" : "Gebühr Fr. 1.--. Pissoir gratis.",
+				"oeffnungsz" : "Nachts geschlossen.",
+				"standort" : "Kasino Zürichhorn",
+				"kreis" : 8,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc073",
+				"kommentar" : "Wegen Umbau zurzeit geschlossen. ",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24 h",
+				"standort" : "Endstation Tram 3, Püntstrasse 11",
+				"kreis" : 9,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc075",
+				"kommentar" : "Multifunktions-WC.",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24 Std. von März bis Oktober.",
+				"standort" : "Hasenrainstr./Albisriederstrasse 516 beim Schiessplatz",
+				"kreis" : 9,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc078",
+				"kommentar" : "Multifunktions-WC. ",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24 h",
+				"standort" : "Bändlistrasse 90, Endstation Tram 4",
+				"kreis" : 9,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc087",
+				"kommentar" : "2 Multifunktions-WCs.",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24 h",
+				"standort" : "Ecke Binzmühlestrasse / Wehntalerstrasse 384",
+				"kreis" : 11,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc096",
+				"kommentar" : "Multifunktions-WC beim Spielplatz. Im Winter geschlossen.",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24 h. März bis Oktober.",
+				"standort" : "Buchholzstrasse 53c/Stöckenhaldenweg, beim Spielplatz am Waldrand",
+				"kreis" : 7,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc100",
+				"kommentar" : "2 Multifunktions-WCs. Bei schönem Wetter sehr stark frequentiert.",
+				"gebuehren" : "Gebührenfrei.",
+				"oeffnungsz" : "24h",
+				"standort" : "General-Guisan-Quai 37",
+				"kreis" : 2,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc103",
+				"kommentar" : "2 Multifunktions-WCs. Ein Behinderten-WC mit Eurokey hat es beim nahen Gemeinschaftszentrum.",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24h",
+				"standort" : "Breitensteinstr. 17a / Am Wipkingerpark im Gebäude der SHL",
+				"kreis" : 10,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc105",
+				"kommentar" : "4 Multifunktions-WCs. Die Anlage befindet sich direkt am Spielplatz.",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24 h",
+				"standort" : "Direkt beim Spielplatz an der Blatterwiese, Bellerivestrasse 60",
+				"kreis" : 8,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc107",
+				"kommentar" : "2 Multifunktions-WCs.",
+				"gebuehren" : "Gebührenfrei.",
+				"oeffnungsz" : "24h",
+				"standort" : "Auf dem Helvetiaplatz, Ankerstrasse 101",
+				"kreis" : 4,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"poi_id" : "wc1339",
+				"kommentar" : "1 Multifunktions-WC. Ein Behinderten-WC findet sich im UG im Parkhaus (Kein ZüriWC).",
+				"gebuehren" : "Gebührenfrei",
+				"oeffnungsz" : "24h",
+				"standort" : "Im neuen Pavillon-Restaurant auf dem Theaterplatz",
+				"kreis" : 1,
+				"typ" : "nicht rollstuhlgängig"
+			}
+		}
+	]
+}
