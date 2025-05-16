@@ -8,3 +8,7 @@ osmnx
 openrouteservice
 jupyterlab
 scikit-learn
+pandas
+plotly
+scipy
+numpy
